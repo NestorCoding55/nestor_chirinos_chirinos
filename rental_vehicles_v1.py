@@ -42,7 +42,7 @@ class RentalVehicleApp:
 
         self.db_config =  {
             'user': 'root',
-            'password': 'Losvengadores12#',
+            'password': 'Losvengadoresxdas',
             'host': 'localhost',
             'database': 'rent_a_car'
         }
